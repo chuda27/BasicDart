@@ -3,6 +3,7 @@ class Mobil {
   String nama_mobil;
   String merk_mobil;
   int tahun_rakit;
+
   get namamobil => this.nama_mobil;
 
   set namamobil(value) => this.nama_mobil = value;

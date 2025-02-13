@@ -5,6 +5,7 @@ class MataKuliah {
   int jml_sks;
   String semester_tempuh;
   String jenis_mk;
+
   MataKuliah({
     required this.nama_mk,
     required this.kode_mk,

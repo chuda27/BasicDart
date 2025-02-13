@@ -4,7 +4,7 @@ void main(List<String> args) async {
   print('Mohon tunggu...');
   String tampilkan = await tampilData();
   print(tampilkan);
-  print('Sukses\n=====================\n');
+  print('Sukses\n======================\n');
 }
 
 Future<String> tampilData() async {

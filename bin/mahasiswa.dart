@@ -7,7 +7,6 @@ class Mahasiswa {
   String jenis_kelamin;
   String tgl_lahir;
   String alamat;
-
   Mahasiswa({
     required this.nama_lengkap,
     required this.nim,

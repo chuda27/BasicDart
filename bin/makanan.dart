@@ -5,6 +5,7 @@ class Makanan {
   int harga;
   String topping;
   String ukuran;
+
   Makanan({
     required this.nama,
     required this.rasa,
